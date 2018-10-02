@@ -1,4 +1,4 @@
-# Remote-Desktop-Server-Client
+# Remote-Desktop-Server-and-Client
 
 Platform: The code is meant to be used on Windows.
 
