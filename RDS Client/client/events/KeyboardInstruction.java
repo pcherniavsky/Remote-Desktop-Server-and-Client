@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.net.Socket;
 
 /**
- * The class deals with key board instructions.
+ * The class deals with keyboard instructions.
  * 
  * @author Peter
  */
